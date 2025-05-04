@@ -1,0 +1,15 @@
+{
+  "last_username": "",
+  "last_account_type": "Demo",
+  "telegram_bot_token": "",
+  "telegram_chat_id": "",
+  "trade_settings": {
+    "amount": 1.0,
+    "compounding": false,
+    "compounding_steps": 0,
+    "profit_target": 10.0,
+    "stop_loss": 10.0,
+    "duration": 60,
+    "min_payout": 80
+  }
+}
